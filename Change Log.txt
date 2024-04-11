@@ -1,0 +1,57 @@
+CHANGE LOG
+GOIZEN AMP
+====================
+
+Version 1.0, 14/01/2019
+	- Release
+Version 1.1, 20/01/2019
+	- Fix Align for Footer Menu
+	- Improve Label or Tags
+Version 1.2, 28/01/2019
+	- Fix Responsive Image
+	- Fix Yellow Background Ads Slot
+	- Adding Inside Ads Post Page
+Version 1.3, 19/02/2019
+	- Fix Author Schema for Blogger from G+
+	- Change Social Share Button (G+ with Pinterest)
+	- Change Social Media Button (G+ wuth Youtube)
+Version 2.0, 29/06/2019
+	- Fix Error H1 Tag Heading when Replace With Image
+	- HTML and CSS Improvement
+	- Related Posts Widget Improvement
+	- Snippet Text Homepage Improvement
+	- Google Font and Font Awesome Improvement 
+	- GT Metrix Speed and Performance Improvement
+Version 2.1, 04/07/2019
+	- Fix Error JSON-LD Schema.org
+	- Remove CSS Bundle
+	- 404 Page Improvement
+	- Profile Widget Improvement
+	- Footer Pages Widget Improvement
+	- Google Font + Font Awesome Improvement
+Version 2.2, 23/10/2019
+	- Fix Error Widget Label
+	- HTML and CSS Improvement
+Version 2.3, 22/01/2020
+	- Fix Error Breadcrumbs
+	- Fix Search Form and Search Button
+	- HTML and CSS Improvement
+Version 2.5, 20/12/2020
+	- Fix Popular Post Widget
+	- Fix Blogger Layout
+	- Fix Feature Post Widget
+	- HTML and CSS Improvement
+Version 2.6,20/07/2021
+	- Fix CSS Paragraph
+	- Fix Widget Thumbnail Feature Snippet Image
+	- Fix Widget Feature Post Image
+	- Fix Ads Widget for Related Post
+	- HTML and CSS Improvement
+Version 2.6.1, 28/07/2021
+	- Fix Error AMP CSS bundle
+	- Fix Error AMP Attribute "name" on Section
+Version 2.7, 01/09/2022
+	- Fix Heading Post Error
+	- Fix Responsive Featured Image
+	- Fix Sidebar Title
+	- HTML and CSS Improvement
